@@ -1,0 +1,12 @@
+.defaultLayout {
+  display: grid;
+  grid-template-rows: auto auto;
+  grid-template-columns: "header" "main";
+}
+
+header {
+  grid-area: header;
+}
+main {
+  grid-area: main;
+}

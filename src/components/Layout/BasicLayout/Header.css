@@ -1,0 +1,22 @@
+.searchBtn {
+  outline: none !important;
+  border: none !important;
+  color: #fff !important;
+}
+
+.finalItem {
+  color: #fff !important;
+}
+
+.finalItem:hover {
+  color: #fff !important;
+}
+
+.navName {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navName:hover {
+  color: #fff;
+}

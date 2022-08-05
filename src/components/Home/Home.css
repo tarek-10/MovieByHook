@@ -1,0 +1,30 @@
+.bdr {
+  border: 1px solid #a8a8a83d;
+  height: 2px;
+}
+
+.movieTitle {
+  text-transform: capitalize;
+  margin-top: 10px;
+}
+
+.movieDesc {
+  font-size: 13px;
+  text-transform: capitalize;
+  color: #949cb0;
+}
+
+.movieTitleImage {
+  font-size: 15px;
+}
+.items {
+  position: relative;
+}
+.badgeNumber {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: #24baef;
+  padding: 3px;
+  font-size: 10px;
+}
